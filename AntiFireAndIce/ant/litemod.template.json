@@ -1,0 +1,8 @@
+{
+    "name": "${ant.project.name}",
+    "mcversion": "${litemodversion}",
+    "revision": "${git.revision}",
+    "author": "${author}",
+    "description": "Very simple anti fire and ice mod",
+    "classTransformerClasses": "pw.uyjulian.FireAndIce.litemod.EventTransformerAntiFireAndIce"
+}

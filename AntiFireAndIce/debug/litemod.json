@@ -1,0 +1,5 @@
+{
+    "name": "LitemodStub",
+    "mcversion": "1.8",
+    "classTransformerClasses": "pw.uyjulian.AntiFireAndIce.litemod.EventTransformerAntiFireAndIce"
+}
