@@ -13,7 +13,7 @@
     <property name="mcversion"          value="1.8" />
     <property name="litemodversion"     value="1.8" />
     <property name="author"             value="uyjulian" />
-    <property name="project"            value="FireAndIce" />
+    <property name="project"            value="AntiFireAndIce" />
     <property name="md5set"             value="liteloader" />
 	
     <property name="eclipse.dir"        location="${mcp.dir}/eclipse" />
